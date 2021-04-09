@@ -1,0 +1,5 @@
+[
+    {"id": 0, "model": "Ford Focus", "year": 2018, "color": 1},
+    {"id": 1, "model": "Auti TT", "year": 2021, "color": 2},
+    {"id": 2, "model": "Kia Rio", "year": 2014, "color": 13}
+]
